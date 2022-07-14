@@ -1,0 +1,15 @@
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\bin\Debug\net6.0\TopLevelProgram2.exe
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\bin\Debug\net6.0\TopLevelProgram2.deps.json
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\bin\Debug\net6.0\TopLevelProgram2.runtimeconfig.json
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\bin\Debug\net6.0\TopLevelProgram2.dll
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\bin\Debug\net6.0\TopLevelProgram2.pdb
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\obj\Debug\net6.0\TopLevelProgram2.csproj.AssemblyReference.cache
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\obj\Debug\net6.0\TopLevelProgram2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\obj\Debug\net6.0\TopLevelProgram2.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\obj\Debug\net6.0\TopLevelProgram2.AssemblyInfo.cs
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\obj\Debug\net6.0\TopLevelProgram2.csproj.CoreCompileInputs.cache
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\obj\Debug\net6.0\TopLevelProgram2.dll
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\obj\Debug\net6.0\refint\TopLevelProgram2.dll
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\obj\Debug\net6.0\TopLevelProgram2.pdb
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\obj\Debug\net6.0\TopLevelProgram2.genruntimeconfig.cache
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\TopLevelProgram2\obj\Debug\net6.0\ref\TopLevelProgram2.dll

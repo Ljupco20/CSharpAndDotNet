@@ -1,0 +1,15 @@
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\bin\Debug\net6.0\Numbers.exe
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\bin\Debug\net6.0\Numbers.deps.json
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\bin\Debug\net6.0\Numbers.runtimeconfig.json
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\bin\Debug\net6.0\Numbers.dll
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\bin\Debug\net6.0\Numbers.pdb
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\obj\Debug\net6.0\Numbers.dll
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\obj\Debug\net6.0\refint\Numbers.dll
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\obj\Debug\net6.0\Numbers.pdb
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\obj\Debug\net6.0\Numbers.genruntimeconfig.cache
+D:\FullStackDevelopment\C#.NET-CA\Chapter02\Chapter02\Numbers\obj\Debug\net6.0\ref\Numbers.dll

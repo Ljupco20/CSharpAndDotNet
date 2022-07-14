@@ -1,0 +1,16 @@
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\bin\Debug\net5.0\HelloCs.exe
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\bin\Debug\net5.0\HelloCs.deps.json
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\bin\Debug\net5.0\HelloCs.runtimeconfig.json
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\bin\Debug\net5.0\HelloCs.runtimeconfig.dev.json
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\bin\Debug\net5.0\HelloCs.dll
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\bin\Debug\net5.0\HelloCs.pdb
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\obj\Debug\net5.0\HelloCs.csproj.AssemblyReference.cache
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\obj\Debug\net5.0\HelloCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\obj\Debug\net5.0\HelloCs.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\obj\Debug\net5.0\HelloCs.AssemblyInfo.cs
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\obj\Debug\net5.0\HelloCs.csproj.CoreCompileInputs.cache
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\obj\Debug\net5.0\HelloCs.dll
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\obj\Debug\net5.0\refint\HelloCs.dll
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\obj\Debug\net5.0\HelloCs.pdb
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\obj\Debug\net5.0\HelloCs.genruntimeconfig.cache
+D:\FullStackDevelopment\C#.NET-CA\Chapter01\HelloCs\obj\Debug\net5.0\ref\HelloCs.dll
