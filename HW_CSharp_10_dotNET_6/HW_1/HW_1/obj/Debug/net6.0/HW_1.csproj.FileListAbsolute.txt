@@ -1,0 +1,15 @@
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\bin\Debug\net6.0\HW_1.exe
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\bin\Debug\net6.0\HW_1.deps.json
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\bin\Debug\net6.0\HW_1.runtimeconfig.json
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\bin\Debug\net6.0\HW_1.dll
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\bin\Debug\net6.0\HW_1.pdb
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\obj\Debug\net6.0\HW_1.csproj.AssemblyReference.cache
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\obj\Debug\net6.0\HW_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\obj\Debug\net6.0\HW_1.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\obj\Debug\net6.0\HW_1.AssemblyInfo.cs
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\obj\Debug\net6.0\HW_1.csproj.CoreCompileInputs.cache
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\obj\Debug\net6.0\HW_1.dll
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\obj\Debug\net6.0\refint\HW_1.dll
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\obj\Debug\net6.0\HW_1.pdb
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\obj\Debug\net6.0\HW_1.genruntimeconfig.cache
+D:\FullStackDevelopment\CSharpAndDotNet\HW_CSharp_10_dotNET_6\HW_1\HW_1\obj\Debug\net6.0\ref\HW_1.dll
