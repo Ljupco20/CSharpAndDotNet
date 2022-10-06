@@ -1,0 +1,12 @@
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter06\PeopleLib\bin\Debug\net6.0\PeopleLib.deps.json
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter06\PeopleLib\bin\Debug\net6.0\PeopleLib.dll
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter06\PeopleLib\bin\Debug\net6.0\PeopleLib.pdb
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.dll
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\refint\PeopleLib.dll
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.pdb
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\ref\PeopleLib.dll

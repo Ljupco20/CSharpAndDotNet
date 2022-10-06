@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.exe
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.deps.json
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.runtimeconfig.json
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.dll
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.pdb
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.dll
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\obj\Debug\net6.0\refint\HandlingExceptions.dll
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.pdb
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter03\HandlingExceptions\obj\Debug\net6.0\ref\HandlingExceptions.dll

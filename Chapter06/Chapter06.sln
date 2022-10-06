@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleLib", "PeopleLib\PeopleLib.csproj", "{3027A343-9165-414C-B550-27CAB75C96F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleApp", "PeopleApp\PeopleApp.csproj", "{EDB80D29-CFAA-406B-8C78-EFB68A3D0CC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3027A343-9165-414C-B550-27CAB75C96F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3027A343-9165-414C-B550-27CAB75C96F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3027A343-9165-414C-B550-27CAB75C96F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3027A343-9165-414C-B550-27CAB75C96F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB80D29-CFAA-406B-8C78-EFB68A3D0CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB80D29-CFAA-406B-8C78-EFB68A3D0CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB80D29-CFAA-406B-8C78-EFB68A3D0CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB80D29-CFAA-406B-8C78-EFB68A3D0CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C33AE470-8424-42C2-9A4C-A5C2B9119C82}
+	EndGlobalSection
+EndGlobal

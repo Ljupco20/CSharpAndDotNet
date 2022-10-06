@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1SDauSam+5dL6orunUk5HV5ehWea9XnH0d89fIVZhZDmKEZSZkynUPY2CQx1ugpVibLh1w7Kw1OfcSMbtHgAdw==",
+  "dgSpecHash": "7c+qbEXgwZ587FdOEdfVUQ6+w/3R/5MbTZT5HaVEgkXuQNPPdEJUAK3yMn79DvSvGDziAc6Ue77m7RLBkv3TJw==",
   "success": true,
-  "projectFilePath": "D:\\FullStackDevelopment\\CSharpAndDotNet\\Chapter03\\Operators\\Operators.csproj",
+  "projectFilePath": "D:\\W_REPOSITORIES\\CSharpAndDotNet\\Chapter03\\Operators\\Operators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

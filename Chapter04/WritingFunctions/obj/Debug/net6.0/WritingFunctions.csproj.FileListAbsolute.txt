@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\bin\Debug\net6.0\WritingFunctions.exe
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\bin\Debug\net6.0\WritingFunctions.deps.json
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\bin\Debug\net6.0\WritingFunctions.runtimeconfig.json
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\bin\Debug\net6.0\WritingFunctions.dll
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\bin\Debug\net6.0\WritingFunctions.pdb
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.dll
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\obj\Debug\net6.0\refint\WritingFunctions.dll
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.pdb
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharpAndDotNet\Chapter04\WritingFunctions\obj\Debug\net6.0\ref\WritingFunctions.dll
