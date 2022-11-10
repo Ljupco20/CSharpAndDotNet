@@ -23,12 +23,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/W_REPOSITORIES/CSharpAndDotNet/MVCProjects/MyFirstMvc/Views/People/CreatePerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXENyZWF0ZVBlcnNvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/W_REPOSITORIES/CSharpAndDotNet/MVCProjects/MyFirstMvc/Views/People/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/W_REPOSITORIES/CSharpAndDotNet/MVCProjects/MyFirstMvc/Views/People/ShowPeople.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXFNob3dQZW9wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/W_REPOSITORIES/CSharpAndDotNet/MVCProjects/MyFirstMvc/Views/PersonDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uRGV0YWlsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/W_REPOSITORIES/CSharpAndDotNet/MVCProjects/MyFirstMvc/Views/PersonDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uRGV0YWlsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/W_REPOSITORIES/CSharpAndDotNet/MVCProjects/MyFirstMvc/Views/PersonDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uRGV0YWlsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/W_REPOSITORIES/CSharpAndDotNet/MVCProjects/MyFirstMvc/Views/PersonDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uRGV0YWlsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/W_REPOSITORIES/CSharpAndDotNet/MVCProjects/MyFirstMvc/Views/PersonDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uRGV0YWlsc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/W_REPOSITORIES/CSharpAndDotNet/MVCProjects/MyFirstMvc/Views/Shared/Error.cshtml]
